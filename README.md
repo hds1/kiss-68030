@@ -15,5 +15,6 @@ Debian trixie/sid with kernel 6.6 fpor the retrobrew kiss-68030
    This is way too slow for the 68030 kiss system.
 
 Download:
-https://www.iup.uni-bremen.de/~schroete/trixie_partition1.dd
-https://www.iup.uni-bremen.de/~schroete/trixie_partition2.dd
+https://www.iup.uni-bremen.de/~schroete/trixie_partition1.dd <br>
+https://www.iup.uni-bremen.de/~schroete/trixie_partition2.dd <br>
+https://www.iup.uni-bremen.de/~schroete/linux-6.6-kiss.tgz
